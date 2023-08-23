@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erismoutiampas
 - 👀 I’m interested in ... technology and creativity
 - 🌱 I’m currently learning ... web developent
-- 💞️ I’m looking to collaborate on ... frontend designing
+- 💞️ I’m looking to collaborate on ... frontend designing,
 - 📫 How to reach me ... erismase@gmail.com (01630264792)
 
 <!---
